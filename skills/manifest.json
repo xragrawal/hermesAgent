@@ -1,0 +1,208 @@
+{
+  "skills": [
+    {
+      "name": "academic-verify",
+      "path": "academic-verify/SKILL.md"
+    },
+    {
+      "name": "archive-crawler",
+      "path": "archive-crawler/SKILL.md"
+    },
+    {
+      "name": "article-enrichment",
+      "path": "article-enrichment/SKILL.md"
+    },
+    {
+      "name": "ask-user",
+      "path": "ask-user/SKILL.md"
+    },
+    {
+      "name": "book-mirror",
+      "path": "book-mirror/SKILL.md"
+    },
+    {
+      "name": "brain-ops",
+      "path": "brain-ops/SKILL.md"
+    },
+    {
+      "name": "brain-pdf",
+      "path": "brain-pdf/SKILL.md"
+    },
+    {
+      "name": "brain-taxonomist",
+      "path": "brain-taxonomist/SKILL.md"
+    },
+    {
+      "name": "briefing",
+      "path": "briefing/SKILL.md"
+    },
+    {
+      "name": "capture",
+      "path": "capture/SKILL.md"
+    },
+    {
+      "name": "citation-fixer",
+      "path": "citation-fixer/SKILL.md"
+    },
+    {
+      "name": "cold-start",
+      "path": "cold-start/SKILL.md"
+    },
+    {
+      "name": "concept-synthesis",
+      "path": "concept-synthesis/SKILL.md"
+    },
+    {
+      "name": "cron-scheduler",
+      "path": "cron-scheduler/SKILL.md"
+    },
+    {
+      "name": "cross-modal-review",
+      "path": "cross-modal-review/SKILL.md"
+    },
+    {
+      "name": "daily-task-manager",
+      "path": "daily-task-manager/SKILL.md"
+    },
+    {
+      "name": "daily-task-prep",
+      "path": "daily-task-prep/SKILL.md"
+    },
+    {
+      "name": "data-research",
+      "path": "data-research/SKILL.md"
+    },
+    {
+      "name": "eiirp",
+      "path": "eiirp/SKILL.md"
+    },
+    {
+      "name": "enrich",
+      "path": "enrich/SKILL.md"
+    },
+    {
+      "name": "frontmatter-guard",
+      "path": "frontmatter-guard/SKILL.md"
+    },
+    {
+      "name": "functional-area-resolver",
+      "path": "functional-area-resolver/SKILL.md"
+    },
+    {
+      "name": "gbrain-advisor",
+      "path": "gbrain-advisor/SKILL.md"
+    },
+    {
+      "name": "gbrain-upgrade",
+      "path": "gbrain-upgrade/SKILL.md"
+    },
+    {
+      "name": "idea-ingest",
+      "path": "idea-ingest/SKILL.md"
+    },
+    {
+      "name": "idea-lineage",
+      "path": "idea-lineage/SKILL.md"
+    },
+    {
+      "name": "ingest",
+      "path": "ingest/SKILL.md"
+    },
+    {
+      "name": "maintain",
+      "path": "maintain/SKILL.md"
+    },
+    {
+      "name": "media-ingest",
+      "path": "media-ingest/SKILL.md"
+    },
+    {
+      "name": "meeting-ingestion",
+      "path": "meeting-ingestion/SKILL.md"
+    },
+    {
+      "name": "migrate",
+      "path": "migrate/SKILL.md"
+    },
+    {
+      "name": "minion-orchestrator",
+      "path": "minion-orchestrator/SKILL.md"
+    },
+    {
+      "name": "perplexity-research",
+      "path": "perplexity-research/SKILL.md"
+    },
+    {
+      "name": "publish",
+      "path": "publish/SKILL.md"
+    },
+    {
+      "name": "query",
+      "path": "query/SKILL.md"
+    },
+    {
+      "name": "repo-architecture",
+      "path": "repo-architecture/SKILL.md"
+    },
+    {
+      "name": "reports",
+      "path": "reports/SKILL.md"
+    },
+    {
+      "name": "schema-author",
+      "path": "schema-author/SKILL.md"
+    },
+    {
+      "name": "schema-unify",
+      "path": "schema-unify/SKILL.md"
+    },
+    {
+      "name": "setup",
+      "path": "setup/SKILL.md"
+    },
+    {
+      "name": "signal-detector",
+      "path": "signal-detector/SKILL.md"
+    },
+    {
+      "name": "skill-creator",
+      "path": "skill-creator/SKILL.md"
+    },
+    {
+      "name": "skillify",
+      "path": "skillify/SKILL.md"
+    },
+    {
+      "name": "skillpack-check",
+      "path": "skillpack-check/SKILL.md"
+    },
+    {
+      "name": "skillpack-harvest",
+      "path": "skillpack-harvest/SKILL.md"
+    },
+    {
+      "name": "smoke-test",
+      "path": "smoke-test/SKILL.md"
+    },
+    {
+      "name": "soul-audit",
+      "path": "soul-audit/SKILL.md"
+    },
+    {
+      "name": "strategic-reading",
+      "path": "strategic-reading/SKILL.md"
+    },
+    {
+      "name": "testing",
+      "path": "testing/SKILL.md"
+    },
+    {
+      "name": "voice-note-ingest",
+      "path": "voice-note-ingest/SKILL.md"
+    },
+    {
+      "name": "webhook-transforms",
+      "path": "webhook-transforms/SKILL.md"
+    }
+  ]
+}
